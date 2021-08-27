@@ -1,0 +1,1 @@
+console.log("verificando funcionamiento de webpack")
